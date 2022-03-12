@@ -1,6 +1,6 @@
 # js2gb
 
-A Javascript based Gameboy Z80 compiler
+A Javascript based Gameboy ASM compiler
 
 ---
 
