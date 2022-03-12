@@ -1,0 +1,21 @@
+{
+  "name": "js2gb",
+  "version": "0.0.1",
+  "description": "Javascript based Gameboy Z80 Assembler",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pokeglitch/js2gb.git"
+  },
+  "keywords": [
+    "gameboy",
+    "z80",
+    "asm"
+  ],
+  "author": "Pokeglitch <pokeglitchx@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pokeglitch/js2gb/issues"
+  },
+  "homepage": "https://github.com/Pokeglitch/js2gb#readme"
+}
