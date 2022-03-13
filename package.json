@@ -1,7 +1,7 @@
 {
   "name": "js2gb",
   "version": "0.0.1",
-  "description": "Javascript based Gameboy Z80 Assembler",
+  "description": "Javascript based Gameboy Assembler",
   "main": "index.js",
   "repository": {
     "type": "git",
